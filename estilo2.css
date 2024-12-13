@@ -47,7 +47,7 @@ nav ul li a:hover {
 }
 
 .producto img {
-    max-width: 500px;
+    max-width: 150px;
     height: auto;
 }
 
@@ -68,7 +68,12 @@ nav ul li a:hover {
 }
 
 .producto2 img {
-    max-width: 100px;
+    max-width: 150px;
+    height: auto;
+}
+
+.productos3 img {
+    max-width: 500px;
     height: auto;
 }
 
